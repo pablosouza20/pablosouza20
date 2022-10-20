@@ -1,5 +1,10 @@
 ### Oi, eu sou o Pablo 🙋‍♂️
 
+<h5> > 😀 Me chamo Pablo Souza, tenho 23 anos.</h3>
+<h5> > 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFSUL Câmpus Camaquã. </h5>
+<h5> > 📚 Sou um mero Padawan no mundo da programação. </h5>
+<h5> > ✅ Focado em ser um Dev. Backend Python. </h5>
+
 <div>
   <a href="https://github.com/pablosouza20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablosouza20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -7,15 +12,23 @@
 </div>
 
 ## Tecnologia que eu estou estudando atualmente.
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="PYTHON" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-##
+## Ferramentas
+<div> 
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  
+</div>  
 
+## Entre em contato comigo!
 <div> 
   <a href = "mailto:pablo.s.159753@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pablosouza20" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/pablo_souza_21/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
