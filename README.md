@@ -1,9 +1,9 @@
 ### Oi, eu sou o Pablo 🙋‍♂️
 
-<h5> > 😀 Me chamo Pablo Souza, tenho 23 anos.</h3>
-<h5> > 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFSUL Câmpus Camaquã. </h5>
-<h5> > 📚 Sou um mero Padawan no mundo da programação. </h5>
-<h5> > ✅ Focado em ser um Dev. Backend Python. </h5>
+<h4> > 😀 Me chamo Pablo Souza, tenho 23 anos.</h4>
+<h4> > 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFSUL Câmpus Camaquã. </h4>
+<h4> > 📚 Sou um mero Padawan no mundo da programação. </h4>
+<h4> > ✅ Focado em ser um Dev. Backend Python. </h4>
 
 <div>
   <a href="https://github.com/pablosouza20">
