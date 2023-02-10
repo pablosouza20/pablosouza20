@@ -2,8 +2,6 @@
 
 <h4> > 😀 Me chamo Pablo Souza, tenho 23 anos.</h4>
 <h4> > 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFSUL Câmpus Camaquã. </h4>
-<h4> > 📚 Sou um mero Padawan no mundo da programação. </h4>
-<h4> > ✅ Focado em ser um Dev. Backend Python. </h4>
 
 <div>
   <a href="https://github.com/pablosouza20">
@@ -11,12 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosouza20&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Tecnologia que eu estou estudando atualmente.
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
-
-## Ferramentas
+## Tecnologias que tenho conhecimento
 <div> 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
